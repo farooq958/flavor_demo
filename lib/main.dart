@@ -5,7 +5,7 @@ import 'package:flutter_flavor/flutter_flavor.dart';
 import 'app.dart';
 
 void main() {
- F.flavor=Flavor.bananaFlav;
+ F.flavor=Flavor.dev;
 
  FlavorConfig(
   name: F.flavor.name,  // Use "prod" for production
